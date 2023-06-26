@@ -4,7 +4,7 @@
 
 |Название проекта |Описание|Инструменты, навыки | 
 |:--|:--|:--|
-|[Анализ убытков приложения ProcrastinatePRO+](https://github.com/Yulia-Kalenova/Portfolio_Yandex_DA/blob/main/DA_Procrastinate_Pro/YP_DA_Procrastinate_Pro.ipynb) |Проведен анализ данных от ProcrastinatePRO+. Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д. Использованы уже написанные ранее функции расчёта метрик. Сделаны правильные выводы по полученным данным. |Python, Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики, Seaborn|
+|[Анализ убытков приложения ProcrastinatePRO+](https://github.com/Yulia-Kalenova/Portfolio_Yandex_DA/blob/main/DA_Procrastinate_Pro/YP_DA_Procrastinate_Pro.ipynb) |Мы маркетинговые аналитики развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Задача — разобраться в причинах и помочь компании выйти в плюс. Рассчитать метрики, использовать когортный анализ (LTV, CAC и др.) |Python, Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики, Seaborn|
 
 |Ключевые слова проекта | Ключевые слова|
 |:--|:--|
